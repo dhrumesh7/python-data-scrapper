@@ -18,7 +18,7 @@ client = gspread.authorize(creds)
 SPREADSHEET_ID = '1naBfFd3icx37TOFsQzSsNLqq37fIMR0rWSw9tupBrks'
 SHEET_NAME = 'Sheet1'
 
-API_KEY = 'AIzaSyDdStMcvXTGCMw2KHx7tlE0KMGCnzWj-5k'
+API_KEY = '' # Replace with your API key
 SEARCH_QUERY = 'yoga studios and schools in Thailand'
 URL = 'https://maps.googleapis.com/maps/api/place/textsearch/json'
 
